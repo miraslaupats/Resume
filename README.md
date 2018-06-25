@@ -25,7 +25,7 @@
 
 
 ### javascript:
--JavaScript 
+- JavaScript 
 - jQuery
 - Grunt, Gulp
 - npm
