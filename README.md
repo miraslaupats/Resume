@@ -41,6 +41,8 @@
 - PHP
 - MySQL
 - Photoshop
+- Network
+- OOP
 
 ### Contact details:
 - [+375(33) 325-17-37](tel:+375333251737)
