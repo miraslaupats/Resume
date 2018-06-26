@@ -43,6 +43,7 @@
 - Photoshop
 - Network
 - OOP
+
 ### OS:
 - Windows ( XP++ )
 - Ubuntu, Mint
