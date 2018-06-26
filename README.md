@@ -45,4 +45,4 @@
 ### Contact details:
 - [+375(33) 325-17-37](tel:+375333251737)
 - [miraslau.pats@gmail.com](mailto:miraslau.pats@gmail.com)
-- [Telegram](tg://resolve?domain=MiraslauPats")
+- [Telegram](https://telegram.me/share/url?=MiraslauPats&text=Hello")https://telegram.me/share/url?=MiraslauPats&text=Hello
