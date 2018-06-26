@@ -43,6 +43,9 @@
 - Photoshop
 - Network
 - OOP
+### OS:
+- Windows ( XP++ )
+- Ubuntu, Mint
 
 ### Contact details:
 - [+375(33) 325-17-37](tel:+375333251737)
