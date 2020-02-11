@@ -60,4 +60,5 @@
 
 ### Contact details:
 - [+375(33) 325-17-37](tel:+375333251737)
-- [miraslau.pats@gmail.com](mailto:miraslau.pats@gmail.com)
+- [+48-793-189-666](tel:+48793189666)
+- [miroslaw.pats@gmail.com](mailto:miroslaw.pats@gmail.com)
