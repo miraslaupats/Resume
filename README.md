@@ -1,3 +1,13 @@
+### Personal data
+- Miraslau Pats
+- birthday: 21.12.1992
+- birth place: Belorus
+- address: Warsaw, Vogla 44\3b
+
+### Education
+- 2011-2014  - Yanka Kupala State University of Grodno
+- faculty: Computer security (incomplete training)
+
 ### Version Control System:
 - git
 
